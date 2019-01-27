@@ -1,0 +1,14 @@
+{
+  "name": "my-cli",
+  "bin": "./bin/my-cli.js",
+  "version": "1.0.0",
+  "description": "my cli",
+  "main": "./lib/my-cli.js",
+  "scripts": {},
+  "author": "zhangyalong@zhuanzhuan.com",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0"
+  }
+}
